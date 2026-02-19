@@ -8,7 +8,7 @@ class Main{
         int firstnum = sc.nextInt();
         System.out.println("Enter Second number : ");
         int secondnum = sc.nextInt();
-        System.out.println("The result is : ");
-        System.out.println(firstnum*secondnum);
+        System.out.println();
+        System.out.println("The result is"+" "+firstnum*secondnum);
     }
 }
